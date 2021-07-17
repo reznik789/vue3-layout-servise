@@ -1,4 +1,4 @@
-# layout-service-test
+# Test project with layout servise to learn composition API
 
 ## Project setup
 ```
